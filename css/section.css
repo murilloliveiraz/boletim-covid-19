@@ -1,0 +1,27 @@
+.titulo{
+    color: #fff;
+    font-size: 62px;
+    text-align: center;
+    padding-top: 32px;
+}
+
+.conteudo_texto img{
+    width: 550px;
+    border-radius: 16px;
+}
+
+.conteudo_texto h1 {
+    font-size: 42px;
+    padding-left: 24px;
+}
+
+.conteudo {
+    display: flex;
+    justify-content: space-around;
+    height: 700px;
+    align-items: center;
+}
+
+.texto {
+    width: 500px;
+}
